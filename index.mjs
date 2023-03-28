@@ -1,4 +1,3 @@
-// jira.js
 import axios from "axios";
 import chalk from "chalk";
 import clipboardy from "clipboardy";
